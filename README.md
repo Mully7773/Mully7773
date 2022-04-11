@@ -1,6 +1,6 @@
 ## Hi There! 👋🏼
 
-- 💬 My name is Nick Mullenmeister. 
+- 💬 My name is Nick Mullenmeister. I look forward to collaborating with you and learning new technologies along the way!
 
 ### Languages and Tools:
 
